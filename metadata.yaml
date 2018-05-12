@@ -1,0 +1,34 @@
+_repo: Round-about-Rambles-in-Lands-of-Fact-and-Fancy_17582
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17582-h/images/cover_1.jpg
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Frank R. (Frank Richard)
+    - Stockton, Francis Richard
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: ''
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile literature'
+- !lcsh 'Voyages and travels -- Juvenile literature'
+- !lcsh 'Physical sciences -- Juvenile literature'
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcsh 'Curiosities and wonders -- Juvenile literature'
+title: Round-about Rambles in Lands of Fact and Fancy
+url: http://www.gutenberg.org/ebooks/17582
